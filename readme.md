@@ -13,6 +13,8 @@ Current sketches:
 * Numbers of books in Trove by languages spoken at home in Australia according to 2011 census ([view graph](https://plot.ly/~wragge/21/))
 * Numbers of daily newspapers in Trove by year ([view graph](https://plot.ly/~wragge/20/))
 
+##Licensing
+
 Written in 2014 by Tim Sherratt <tim@discontents.com.au>.
 
 To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.
