@@ -9,9 +9,9 @@ save as credentials.py.
 
 Current sketches:
 
-* Numbers of Trove contributors and resources from each Australian state against the population of that state
-* Numbers of books in Trove by languages spoken at home in Australia according to 2011 census
-* Numbers of daily newspapers in Trove by year
+* Numbers of Trove contributors and resources from each Australian state against the population of that state ([view graph](https://plot.ly/~wragge/19/))
+* Numbers of books in Trove by languages spoken at home in Australia according to 2011 census ([view graph](https://plot.ly/~wragge/21/))
+* Numbers of daily newspapers in Trove by year ([view graph](https://plot.ly/~wragge/20/))
 
 Written in 2014 by Tim Sherratt <tim@discontents.com.au>.
 
